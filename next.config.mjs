@@ -1,5 +1,6 @@
+
 /** @type {import('next').NextConfig} */
-const repo = "futureops";
+const repo = "futureops"; // repo name for GitHub Pages
 
 const nextConfig = {
   output: "export",
